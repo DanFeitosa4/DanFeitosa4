@@ -10,9 +10,8 @@
 
 <div><div>
   <a href="https://github.com/danielfeitosa4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfeitosa4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="360em" alt="Dan-start" src="https://thumbs.gfycat.com/AnnualForcefulAsiansmallclawedotter-size_restricted.gif">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitosa4&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img style="float: left; width: 50.00%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=danielfeitosa4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img style="float: left; width: 50.00%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitosa4&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
