@@ -6,7 +6,7 @@
 <div>
    <ul>
     <li>Sou de <strong>Aracaju/SE</strong> 🏖️
-      <li>Hoje trabalho como Analista de Sistemas no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos). <strong>Fundação de Beneficência Hospital Cirurgia</strong></li>   
+      <li>Hoje trabalho como Analista de Sistemas no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos). <strong>Fundação de Beneficência Hospital Cirurgia</strong>🏥</li>   
        <hr>
        <ul>
           <li>Estudo focado para o <strong>Desenvolvimento Web Fullstack:</strong>:computer:</li>
