@@ -1,36 +1,64 @@
-## Olá! Eu sou o Daniel Feitosa.
+## Olá!:v: Meu nome é Daniel Feitosa.:wave:
+## Um breve resumo sobre mim:
 
-- 💼 Hoje trabalho como Técnico em Informática no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos).
-- 🖥️ Estudando Python
-- 📧 Contate-me no email: danielfeitosa.gama@outlook.com
-- 🙏 Matheus 6:33
-- 🏐❤️ Vôlei 
+<img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
 
-##
+<div>
+   <ul>
+    <li>Sou de <strong>Maceió/AL</strong> 🏖️
+      <li>Desenvolvedor Fullstack Jr na <strong>Oya Care</strong></li>   
+    <li>Estudante de <strong>Desenvolvimento Web</strong> :computer:
+       <ul>
+          <li>Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, <br>que possui <strong>quatro módulos</strong>:</li>
+            <ul>
+               <li>Fundamentos do Desenvolvimento Web ✔️</li>
+               <li>Front end ✔️</li>
+               <li>Back end ✔️</li>
+               <li>Analista de Sistemas⬅️</li>
+            </ul>
+       </ul>   
+    <li>Formado em <strong>Engenharia Mecatrônica</strong> :robot:
+    <li>Pós-graduando em <strong>Gestão de projetos</strong> :mortar_board:
+   </ul>
+   <p>Clique 
+      <a href="https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"           target="_blank">
+         aqui
+      </a>
+      para ver o meu currículo!
+   </p>
+</div>
 
-<div><div>
+<br><br>
+ <div>
   <a href="https://github.com/danielfeitosa4">
-  <img style="float: left; width: 50%; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=danielfeitosa4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img style="float: left; width: 40%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfeitosa4&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=danielbped&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="165em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbped&layout=compact&langs_count=16&theme=react"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dan-Git" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">  
  
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/dan_feitosa4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Daniel's#6298" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:danielfeitosa.gama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniel-feitosa-6a28b71b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ ## Skills
  
-  ![Snake animation](https://github.com/danielfeitosa4/danielfeitosa4/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="display: inline-block"><br>  
+ <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img align="center" alt="nodejs" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img align="center" alt="mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img align="center" alt="mongodb" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <hr>
+ <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ 
+ <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 </div>
+  
+  ## Contato
+ 
+<div align="center"> 
+  <a href="mailto:danielfeitosa.gama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/daniel-feitosa-6a28b71b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+   <a href="https://www.instagram.com/dan_feitosa4/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+ </div>
+ 
+ <p align="center"> 
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+ </p>
