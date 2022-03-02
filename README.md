@@ -6,10 +6,10 @@
 <div>
    <ul>
     <li>Sou de <strong>Aracaju/SE</strong> 🏖️
-      <li>Analista de Sistema na <strong>Fundação de Beneficência Hospital Cirurgia</strong></li>   
-    <li>Estudante de <strong>Desenvolvimento Web</strong> :computer:
+      <li>Hoje trabalho como Analista de Sistemas no Hospital Cirurgia, prestando assistência aos usuários ao Sistema (Salux - Gestão Hospitalar Integrada, prontuário eletrônico, hospital digital, LGPD saúde e indicadores estratégicos). <strong>Fundação de Beneficência Hospital Cirurgia</strong></li>   
+       <hr>
        <ul>
-          <li>Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, <br>que possui <strong>quatro módulos</strong>:</li>
+          <li>Estudo focado para o <strong>Desenvolvimento Web Fullstack:</strong>:computer:</li>
             <ul>
                <li>Fundamentos do Desenvolvimento Web ✔️</li>
                <li>Front end ✔️</li>
