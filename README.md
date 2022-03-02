@@ -5,8 +5,8 @@
 
 <div>
    <ul>
-    <li>Sou de <strong>Maceió/AL</strong> 🏖️
-      <li>Desenvolvedor Fullstack Jr na <strong>Oya Care</strong></li>   
+    <li>Sou de <strong>Aracaju/SE</strong> 🏖️
+      <li>Analista de Sistema na <strong>Fundação de Beneficência Hospital Cirurgia</strong></li>   
     <li>Estudante de <strong>Desenvolvimento Web</strong> :computer:
        <ul>
           <li>Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, <br>que possui <strong>quatro módulos</strong>:</li>
@@ -17,11 +17,11 @@
                <li>Analista de Sistemas⬅️</li>
             </ul>
        </ul>   
-    <li>Formado em <strong>Engenharia Mecatrônica</strong> :robot:
-    <li>Pós-graduando em <strong>Gestão de projetos</strong> :mortar_board:
+    <li>Graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> :robot:
+
    </ul>
    <p>Clique 
-      <a href="https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"           target="_blank">
+      <a href=""           target="_blank">
          aqui
       </a>
       para ver o meu currículo!
