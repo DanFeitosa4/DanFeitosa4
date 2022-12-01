@@ -5,10 +5,10 @@
 <img align="right" src="./images/about-me.gif" width="313px" height="313px" alt="about me">
 
 <ul align="left">
-    <li>🤩️ Amante de Tecnologia, Jogos, Café e Esportes 🤩️</li><br>
-    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end 🚀</li><br>
-    <li>💻 Estudo na Faculdade <a href="https://www.uninassau.edu.br/?utm_source=google&utm_medium=maps&utm_campaign=icherry-UNI072" target="_blank">UNINASSAU</a> e buscando complementar meus conhecimentos através da plataforma de estudos <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>. Estou praticando <b>JavaScript</b> e <b>React</b> na Rocketseat 💻</li><br>
-    <li>🔮Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End Web🔮</li><br>
+    <li>🤩️ Amante de Tecnologia, Jogos, Café e Esportes </li><br>
+    <li>🚀 Em processo de transição de carreira, sempre buscando conhecimento para poder avançar e me destacar no mercado de trabalho e assim alcançar minha tão sonhada primeira vaga como dev front-end </li><br>
+    <li>💻 Estudo na Faculdade <a href="https://www.uninassau.edu.br/?utm_source=google&utm_medium=maps&utm_campaign=icherry-UNI072" target="_blank">UNINASSAU</a> e buscando complementar meus conhecimentos através da plataforma de estudos <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>. Estou praticando <b>JavaScript</b> e <b>React</b> na Rocketseat </li><br>
+    <li>🔮Meu objetivo num futuro próximo, é me tornar desenvolvedor Front-End Web </li><br>
 </ul>
 <br>
 
