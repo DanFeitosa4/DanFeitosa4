@@ -176,8 +176,8 @@
 <table height="495px" width="365px">
   <tr>
     <td>
-    <a href="#" target="_blank">
-      <img align="center" src="./images/danielfeitosa4.png">
+    <a href="https://github.com/danielfeitosa4/RocketNews" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielfeitosa4&repo=RocketNews&theme=github_dark">
     </a>
     </td>
   </tr>
