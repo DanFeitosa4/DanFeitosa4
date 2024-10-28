@@ -14,7 +14,7 @@ Sou um desenvolvedor de software back-end, utilizando tecnologias como SQLServer
 
 <p align="left">
   
-  <a href="[www.linkedin.com/in/francisco-césar](https://www.linkedin.com/in/daniel-feitosa/)" alt="Linkedin">
+  <a href="[[www.linkedin.com/in/francisco-césar](https://www.linkedin.com/in/daniel-feitosa/)](https://www.linkedin.com/in/daniel-feitosa/)" alt="Linkedin">
   
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisco-c%C3%A9sar-94838b17b/" /></a>
 
